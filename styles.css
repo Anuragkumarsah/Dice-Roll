@@ -4,14 +4,14 @@
 
 body{
     background-color: #393E46;
-    
+    text-align: center;
 }
 
 h1{
-    margin-top: 3rem;
+    margin-top: 2rem;
     color: #4ECCA3;
-    text-align: center;
-    font-size: 8rem;
+    /* text-align: center; */
+    font-size: 6rem;
     font-family: 'Princess Sofia';
 }
 
@@ -25,14 +25,14 @@ h1{
 }
 
 .grid-item{
-    text-align: center;
+    /* text-align: center; */
     font-family: 'Architects Daughter';
     font-size: 2rem;
 }
 
 .footer{
     color: #fff;
-    text-align: center;
+    /* text-align: center; */
     font-family: 'Architects Daughter';
     font-size: 0.9rem;
     bottom: 0;
@@ -41,7 +41,20 @@ h1{
 }
 
 .dice{
-    margin-top: 1.9rem;
+    margin-top: 1.5rem;
     height: 10rem;
     width: 10rem;
+}
+
+.Roll{
+    font-family: 'Princess Sofia';
+    width: 8rem;
+    height: 3rem;
+    margin: 2rem 0rem;
+    border-radius: 50px;
+    background-color: red;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    border-color: #fff;
 }
