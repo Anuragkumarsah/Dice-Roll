@@ -19,7 +19,7 @@ h1{
     color: #4ECCA3;
     font-family: 'Architects Daughter';
     display: grid;
-    padding: 0 20rem;
+    padding: 0 15rem;
     grid-template-columns: auto auto;
     
 }
